@@ -1,2 +1,2 @@
 # Spotify-clone
-Planned Spotify clone xD
+Planned to make Spotify clone xD
